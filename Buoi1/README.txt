@@ -8,6 +8,7 @@ DANH SACH SINH VIEN THUC HIEN:
 +-----+----------------------+--------------+
 |  1  | Nguyen Van Bang      | B23DCCN067   |
 |  2  | Phan Thanh Binh      | B23DCCN087   |
+|  3  | Nguyễn Minh Hiển     | B23DCCN289   |
 +-----+----------------------+--------------+
 
 1. BROKER SU DUNG:

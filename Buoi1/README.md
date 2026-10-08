@@ -8,7 +8,7 @@
 | :---: | :--- | :---: |
 | 1 | Nguyễn Văn Bằng | B23DCCN067 |
 | 2 | Phan Thanh Bình | B23DCCN087 |
-
+| 3 | Nguyễn Minh Hiển | B23DCCN289 |
 ---
 
 ## 1. Cấu hình MQTT Broker & Môi trường

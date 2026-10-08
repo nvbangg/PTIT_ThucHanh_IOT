@@ -8,6 +8,7 @@ Kho lưu trữ mã nguồn các buổi thực hành môn **Internet of Things (I
 | :---: | :--- | :---: |
 | 1 | Nguyễn Văn Bằng | B23DCCN067 |
 | 2 | Phan Thanh Bình | B23DCCN087 |
+| 3 | Nguyễn Minh Hiển | B23DCCN289 |
 
 ---
 
